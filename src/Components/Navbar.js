@@ -6,7 +6,7 @@ const Navigation = ({ firstName }) => {
   return (
     <Navbar bg="light" expand="lg" className="shadow-sm">
       <Container className="d-flex justify-content-between align-items-center">
-        <Navbar.Brand href="#">Anidassor</Navbar.Brand>
+        <Navbar.Brand href="#">Younouss</Navbar.Brand>
 
         {/* Affichage conditionnel de l'image + message */}
         {firstName && (
